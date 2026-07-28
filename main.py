@@ -8,7 +8,7 @@ CORS(app)
 @app.route("/api/message")
 def message_test():
     return {
-        "text": "refresh test"
+        "text": "vercel test"
     }
 
 if __name__ == "__main__":
