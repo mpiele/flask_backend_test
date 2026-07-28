@@ -10,6 +10,3 @@ def message_test():
     return {
         "text": "vercel test"
     }
-
-if __name__ == "__main__":
-    app.run(debug=True)
